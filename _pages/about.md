@@ -7,15 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, where I am supervised by Professor Junxian He, who also previously advised me during my undergraduate studies. My research focuses on natural language processing and machine learning, and my research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models (VLM), and LLM truthfulness and interpretability.
+I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, where I am supervised by Professor Junxian He, who also previously advised me during my undergraduate studies. My research focuses on natural language processing and machine learning.
 
-I received my B.Eng. from Shanghai Jiao Tong University (SJTU), where I studied from 2020 to 2024 and graduated in June 2024. I am currently pursuing my Ph.D. in Computer Science at the Hong Kong University of Science and Technology (2024-Present). During my undergraduate studies I received the Zhiyuan Honor Scholarship from Shanghai Jiao Tong University.
+Education
+======
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024-Present
+* B.Eng., Shanghai Jiao Tong University, 2020-2024 (graduated June 2024)
 
-My work has appeared at EMNLP 2024, ICML 2024 and NeurIPS 2023, together with preprints on Arxiv.
+Research Interests
+======
+* LLM Reasoning and Reinforcement Learning
+* Hallucination in Vision-Language Models (VLM)
+* LLM Truthfulness and Interpretability
+
+Research Experience
+======
+* Research Intern, MINIMAX, February 2025 - Present
+* Research Intern, Tencent WXG, June 2024 - September 2024 (Advisor: Zifei Shan)
+* Research Intern, Shanghai AI Lab, June 2023 - December 2023 (Advisor: Prof. Yu Cheng)
+
+Skills
+======
+* Natural Language Processing
+* Machine Learning
+* LLM Reasoning and Reinforcement Learning
+* Hallucination in Vision-Language Models (VLM)
+* LLM Truthfulness and Interpretability
+
+Honors and Awards
+======
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 Publications
 ======
-
 <ul>
   <li><strong>Junteng Liu</strong>, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond". <em>Arxiv</em>, 2025. (First author)</li>
   <li><strong>Junteng Liu</strong>, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. "On the Perception Bottleneck of VLMs for Chart Understanding". <em>Arxiv</em>, 2025. (First author)</li>
