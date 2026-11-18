@@ -36,14 +36,14 @@ Research Experience
 
 Publications
 ======
-First-author publications are marked with an asterisk (*).
+First-author publications are marked with an asterisk (\*).
 
 1. **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](publication/2025-01-01-synlogic)** (2025, arXiv)
-   * Junteng Liu\**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
+   * Junteng Liu\*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
 2. **[On the Perception Bottleneck of VLMs for Chart Understanding](publication/2025-01-01-on-the-perception-bottleneck-of-vlms-for-chart-understanding)** (2025, arXiv)
-   * Junteng Liu\**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+   * Junteng Liu\*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
 3. **[On the Universal Truthfulness Hyperplane Inside LLMs](publication/2024-10-01-on-the-universal-truthfulness-hyperplane-inside-llms)** (EMNLP 2024)
-   * Junteng Liu\**, Shiqi Chen, Yu Cheng, Junxian He
+   * Junteng Liu\*, Shiqi Chen, Yu Cheng, Junxian He
 4. [In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation](publication/2024-07-01-in-context-sharpness-as-alerts) (ICML 2024)
    * Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
 5. [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](publication/2023-12-01-ceval) (NeurIPS 2023)
